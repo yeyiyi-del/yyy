@@ -1,16 +1,17 @@
 [
   {
-    "version": "1.0.0",
+    "version": "3.0.6.2",
     "url": "http://example.com/update1",
-    "desc": "\u521D\u59CB\u7248\u672C",
-    "programName": "\u793A\u4F8B\u7A0B\u5E8F",
-    "installCode": "123456"
+    "desc": "自定义模版算法软件",
+    "programName": "CustomClipping",
+    "installCode": "CTMZPLIGUS"
   },
   {
-    "version": "1.1.1",
+    "version": "3.0.3.75",
     "url": "http://example.com/update1",
-    "desc": "\u521D\u59CB\u7248\u672C",
-    "programName": "\u793A\u4F8B\u7A0B\u5E8F",
-    "installCode": "123456"
+    "desc": "柔性算法软件",
+    "programName": "MatchClip",
+    "installCode": "MTCPIAHZKL"
   }
+
 ]
