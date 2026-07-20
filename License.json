@@ -3,8 +3,8 @@
     "UserCode": "4FDD-0A99-5567-3A1A-973B-7E54-B813-C5A1",
     "DeviceNumber": "DEV-37EE-DCEC-312A",
     "MachineSerialNumber": "f5a47e8f-fcce-4595-b153-240b97c4f1b6",
-    "AuthorizationTime": null,
-    "IsAuthorized": false,
+    "AuthorizationTime": "2026-07-21T19:00:00+08:00",
+    "IsAuthorized": true,
     "InstallCode": "CTMZPLIGUS"
   },
   {
