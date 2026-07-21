@@ -18,9 +18,9 @@
     "AuthorizationTime": "2026-07-21T19:00:00+08:00",
     "IsAuthorized": true,
     "InstallCode": "CTMZPLIGUS",
-    "IsLocked": true,
-    "LockReason": "授权被管理员远程锁定",
-    "PolicyVersion": 2,
-    "UpdatedAt": "2026-07-21T09:48:55.1799845+08:00"
+    "IsLocked": false,
+    "LockReason": "",
+    "PolicyVersion": 3,
+    "UpdatedAt": "2026-07-21T09:49:12.2025316+08:00"
   }
 ]
