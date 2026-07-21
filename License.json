@@ -15,12 +15,12 @@
     "UserCode": "DA8C-348A-B75C-7B45-DCF6-5A0C-6C40-D2B7",
     "DeviceNumber": "DEV-1DD3-EB53-211E",
     "MachineSerialNumber": "e9f82050-14b5-4511-95a6-8bda5de5c990",
-    "AuthorizationTime": null,
-    "IsAuthorized": false,
+    "AuthorizationTime": "2026-07-21T19:00:00+08:00",
+    "IsAuthorized": true,
     "InstallCode": "CTMZPLIGUS",
     "IsLocked": false,
     "LockReason": null,
-    "PolicyVersion": 0,
-    "UpdatedAt": null
+    "PolicyVersion": 1,
+    "UpdatedAt": "2026-07-21T09:48:28.6523229+08:00"
   }
 ]
