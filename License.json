@@ -3,13 +3,13 @@
     "UserCode": "12EA-0368-D3B1-53EA-5018-D132-2538-1DA9",
     "DeviceNumber": "DEV-D7E1-F0CF-6AE8",
     "MachineSerialNumber": "bcc5d4cb-4b39-4d90-8d11-12635ac7d165",
-    "AuthorizationTime": null,
-    "IsAuthorized": false,
+    "AuthorizationTime": "2026-07-30T23:59:59+08:00",
+    "IsAuthorized": true,
     "InstallCode": "CTMZPLIGUS",
     "IsLocked": false,
     "LockReason": "",
     "PolicyVersion": 1,
-    "UpdatedAt": "2026-07-30T16:48:28.2904483+08:00"
+    "UpdatedAt": "2026-07-30T16:54:36.5733139+08:00"
   },
   {
     "UserCode": "DA8C-348A-B75C-7B45-DCF6-5A0C-6C40-D2B7",
