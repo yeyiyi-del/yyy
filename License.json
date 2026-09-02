@@ -63,13 +63,13 @@
     "UserCode": "586E-2035-08F9-5941-7EA8-8622-B23F-65EE",
     "DeviceNumber": "DEV-1DD3-EB53-211E",
     "MachineSerialNumber": "e9f82050-14b5-4511-95a6-8bda5de5c990",
-    "AuthorizationTime": "2029-09-30T23:59:59+08:00",
+    "AuthorizationTime": "2029-09-28T23:59:59+08:00",
     "IsAuthorized": true,
     "InstallCode": "CTMZPLIGUS",
     "IsLocked": false,
     "LockReason": "",
     "PolicyVersion": 1,
-    "UpdatedAt": "2026-09-02T17:31:23.3156391+08:00"
+    "UpdatedAt": "2026-09-02T17:34:40.8293881+08:00"
   },
   {
     "UserCode": "F806-31F7-1D09-7251-E8DE-7D82-7645-437D",
