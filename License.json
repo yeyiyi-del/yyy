@@ -1,86 +1,66 @@
 [
   {
-    "UserCode": "5844-ABB3-199F-606D-239F-46E6-3160-58D0",
-    "DeviceNumber": "DEV-9A8E-048E-6C56",
-    "MachineSerialNumber": "62200020-35d9-43be-ac0d-f68fc3f550c3",
-    "AuthorizationTime": "2030-03-01T23:59:59+08:00",
-    "IsAuthorized": true,
-    "InstallCode": "CTMZPLIGUS",
-    "IsLocked": false,
-    "LockReason": "",
-    "PolicyVersion": 1,
-    "UpdatedAt": "2026-09-01T13:28:40.5250832+08:00"
+    "version": 1,
+    "algorithm": "ECDSA-P256-SHA256",
+    "purpose": "CUSTOMCLIPPING-LICENSE",
+    "keyId": "3A95E9EA9232024C",
+    "payload": "ewogICJ1c2VyQ29kZSI6ICJURU1QLURFTU8tMDAxIiwKICAiZGV2aWNlTnVtYmVyIjogIkRFTU8tREVWSUNFLTAwMSIsCiAgIm1hY2hpbmVTZXJpYWxOdW1iZXIiOiAiREVNTy1TRVJJQUwtMDAxIiwKICAiYXV0aG9yaXphdGlvblRpbWUiOiAiMjAyNi0wOS0xMFQyMzo1OTo1OSswODowMCIsCiAgImlzQXV0aG9yaXplZCI6IHRydWUsCiAgImluc3RhbGxDb2RlIjogIkRFTU8tSU5TVEFMTC0wMDEiLAogICJpc0xvY2tlZCI6IGZhbHNlLAogICJsb2NrUmVhc29uIjogIiIsCiAgInBvbGljeVZlcnNpb24iOiAxLAogICJ1cGRhdGVkQXQiOiAiMjAyNi0wOS0wM1QwODo0MzowMC42NTU1NjM2KzAwOjAwIgp9",
+    "signature": "MEQCIFZZmu9/0u4IU1dJaBAdS\u002BiqK\u002Bb/cz2ArjAkbJpFBKZmAiBwmj6TIeMdXqDvOuu2T0TcsxSG2CvCFqgxnrqiplFgNw=="
   },
   {
-    "UserCode": "D447-59E8-E825-98E2-1236-AD2B-B271-6F3B",
-    "DeviceNumber": "DEV-45E4-F38A-D4E7",
-    "MachineSerialNumber": "1f4311b7-8fbd-4cd4-ad91-4512c72b6dc4",
-    "AuthorizationTime": "2026-09-12T19:00:00+08:00",
-    "IsAuthorized": true,
-    "InstallCode": "CTMZPLIGUS",
-    "IsLocked": false,
-    "LockReason": "",
-    "PolicyVersion": 1,
-    "UpdatedAt": "2026-08-21T16:03:39.1911336+08:00"
+    "version": 1,
+    "algorithm": "ECDSA-P256-SHA256",
+    "purpose": "CUSTOMCLIPPING-LICENSE",
+    "keyId": "3A95E9EA9232024C",
+    "payload": "ewogICJ1c2VyQ29kZSI6ICI1ODQ0LUFCQjMtMTk5Ri02MDZELTIzOUYtNDZFNi0zMTYwLTU4RDAiLAogICJkZXZpY2VOdW1iZXIiOiAiREVWLTlBOEUtMDQ4RS02QzU2IiwKICAibWFjaGluZVNlcmlhbE51bWJlciI6ICI2MjIwMDAyMC0zNWQ5LTQzYmUtYWMwZC1mNjhmYzNmNTUwYzMiLAogICJhdXRob3JpemF0aW9uVGltZSI6ICIyMDMwLTAzLTAxVDIzOjU5OjU5KzA4OjAwIiwKICAiaXNBdXRob3JpemVkIjogdHJ1ZSwKICAiaW5zdGFsbENvZGUiOiAiQ1RNWlBMSUdVUyIsCiAgImlzTG9ja2VkIjogZmFsc2UsCiAgImxvY2tSZWFzb24iOiAiIiwKICAicG9saWN5VmVyc2lvbiI6IDEsCiAgInVwZGF0ZWRBdCI6ICIyMDI2LTA5LTAxVDEzOjI4OjQwLjUyNTA4MzIrMDg6MDAiCn0=",
+    "signature": "MEYCIQCXmdXs2NNvRix2WkGur8Pzw5BqBoIydVEHrBs/JiZZtQIhAIc2ddrs8mISAWGDeziLCai4mnvV2XWNp8jFJkLGZEEc"
   },
   {
-    "UserCode": "6894-27DF-F9C2-DAE0-D0F6-AA46-E97B-51E7",
-    "DeviceNumber": "DEV-82D4-E49B-9D32",
-    "MachineSerialNumber": "7737fe09-0e73-4e2d-bbbd-2208b641ca55",
-    "AuthorizationTime": "2026-11-13T19:00:00+08:00",
-    "IsAuthorized": true,
-    "InstallCode": "CTMZPLIGUS",
-    "IsLocked": false,
-    "LockReason": "",
-    "PolicyVersion": 1,
-    "UpdatedAt": "2026-08-08T00:50:43.0758536+08:00"
+    "version": 1,
+    "algorithm": "ECDSA-P256-SHA256",
+    "purpose": "CUSTOMCLIPPING-LICENSE",
+    "keyId": "3A95E9EA9232024C",
+    "payload": "ewogICJ1c2VyQ29kZSI6ICJENDQ3LTU5RTgtRTgyNS05OEUyLTEyMzYtQUQyQi1CMjcxLTZGM0IiLAogICJkZXZpY2VOdW1iZXIiOiAiREVWLTQ1RTQtRjM4QS1ENEU3IiwKICAibWFjaGluZVNlcmlhbE51bWJlciI6ICIxZjQzMTFiNy04ZmJkLTRjZDQtYWQ5MS00NTEyYzcyYjZkYzQiLAogICJhdXRob3JpemF0aW9uVGltZSI6ICIyMDI2LTA5LTEyVDE5OjAwOjAwKzA4OjAwIiwKICAiaXNBdXRob3JpemVkIjogdHJ1ZSwKICAiaW5zdGFsbENvZGUiOiAiQ1RNWlBMSUdVUyIsCiAgImlzTG9ja2VkIjogZmFsc2UsCiAgImxvY2tSZWFzb24iOiAiIiwKICAicG9saWN5VmVyc2lvbiI6IDEsCiAgInVwZGF0ZWRBdCI6ICIyMDI2LTA4LTIxVDE2OjAzOjM5LjE5MTEzMzYrMDg6MDAiCn0=",
+    "signature": "MEYCIQD3gknSKaFVSoNmotWDEW9rFMxIT9VrEY\u002Byy1m5jKJXugIhAKLObbTneiglKE6SIaTgYeENscfhwNf/c6bgnd\u002Bo9Qv6"
   },
   {
-    "UserCode": "12EA-0368-D3B1-53EA-5018-D132-2538-1DA9",
-    "DeviceNumber": "DEV-D7E1-F0CF-6AE8",
-    "MachineSerialNumber": "bcc5d4cb-4b39-4d90-8d11-12635ac7d165",
-    "AuthorizationTime": "2026-07-30T23:59:59+08:00",
-    "IsAuthorized": true,
-    "InstallCode": "CTMZPLIGUS",
-    "IsLocked": true,
-    "LockReason": "授权被管理员远程锁定",
-    "PolicyVersion": 2,
-    "UpdatedAt": "2026-07-30T17:00:10.364468+08:00"
+    "version": 1,
+    "algorithm": "ECDSA-P256-SHA256",
+    "purpose": "CUSTOMCLIPPING-LICENSE",
+    "keyId": "3A95E9EA9232024C",
+    "payload": "ewogICJ1c2VyQ29kZSI6ICI2ODk0LTI3REYtRjlDMi1EQUUwLUQwRjYtQUE0Ni1FOTdCLTUxRTciLAogICJkZXZpY2VOdW1iZXIiOiAiREVWLTgyRDQtRTQ5Qi05RDMyIiwKICAibWFjaGluZVNlcmlhbE51bWJlciI6ICI3NzM3ZmUwOS0wZTczLTRlMmQtYmJiZC0yMjA4YjY0MWNhNTUiLAogICJhdXRob3JpemF0aW9uVGltZSI6ICIyMDI2LTExLTEzVDE5OjAwOjAwKzA4OjAwIiwKICAiaXNBdXRob3JpemVkIjogdHJ1ZSwKICAiaW5zdGFsbENvZGUiOiAiQ1RNWlBMSUdVUyIsCiAgImlzTG9ja2VkIjogZmFsc2UsCiAgImxvY2tSZWFzb24iOiAiIiwKICAicG9saWN5VmVyc2lvbiI6IDEsCiAgInVwZGF0ZWRBdCI6ICIyMDI2LTA4LTA4VDAwOjUwOjQzLjA3NTg1MzYrMDg6MDAiCn0=",
+    "signature": "MEQCIFDG6tV1SrrKPxuU3IsyPhhTXJA9qsGe2QChTinTGywEAiA0Mfj33n8MHlTInhFDWZNfM2Wn1\u002BAjZ/Fuf0qicE6nEw=="
   },
   {
-    "UserCode": "586E-2035-08F9-5941-7EA8-8622-B23F-65EE",
-    "DeviceNumber": "DEV-86E0-E156-2BC5",
-    "MachineSerialNumber": "1ecebd47-1437-4adf-8297-134c3b531d58",
-    "AuthorizationTime": "2029-09-28T23:59:59+08:00",
-    "IsAuthorized": true,
-    "InstallCode": "CTMZPLIGUS",
-    "IsLocked": false,
-    "LockReason": "",
-    "PolicyVersion": 1,
-    "UpdatedAt": "2026-09-02T17:34:40.8293881+08:00"
+    "version": 1,
+    "algorithm": "ECDSA-P256-SHA256",
+    "purpose": "CUSTOMCLIPPING-LICENSE",
+    "keyId": "3A95E9EA9232024C",
+    "payload": "ewogICJ1c2VyQ29kZSI6ICIxMkVBLTAzNjgtRDNCMS01M0VBLTUwMTgtRDEzMi0yNTM4LTFEQTkiLAogICJkZXZpY2VOdW1iZXIiOiAiREVWLUQ3RTEtRjBDRi02QUU4IiwKICAibWFjaGluZVNlcmlhbE51bWJlciI6ICJiY2M1ZDRjYi00YjM5LTRkOTAtOGQxMS0xMjYzNWFjN2QxNjUiLAogICJhdXRob3JpemF0aW9uVGltZSI6ICIyMDI2LTA3LTMwVDIzOjU5OjU5KzA4OjAwIiwKICAiaXNBdXRob3JpemVkIjogdHJ1ZSwKICAiaW5zdGFsbENvZGUiOiAiQ1RNWlBMSUdVUyIsCiAgImlzTG9ja2VkIjogdHJ1ZSwKICAibG9ja1JlYXNvbiI6ICJcdTYzODhcdTY3NDNcdTg4QUJcdTdCQTFcdTc0MDZcdTU0NThcdThGRENcdTdBMEJcdTk1MDFcdTVCOUEiLAogICJwb2xpY3lWZXJzaW9uIjogMiwKICAidXBkYXRlZEF0IjogIjIwMjYtMDctMzBUMTc6MDA6MTAuMzY0NDY4KzA4OjAwIgp9",
+    "signature": "MEQCIGxu0kfkde0BEMwV6jpc5sTVKPqTN/lO6PZLrueNjX8KAiBUPjoZ9ENnqZCrhpEqUCEaKnthdRDsxzX7qhKBNQ530g=="
   },
   {
-    "UserCode": "F806-31F7-1D09-7251-E8DE-7D82-7645-437D",
-    "DeviceNumber": "DEV-9889-9308-F6A6",
-    "MachineSerialNumber": "c58c2901-b610-4a14-b1fe-64c2285ed7ce",
-    "AuthorizationTime": "2029-07-20T19:00:00+08:00",
-    "IsAuthorized": true,
-    "InstallCode": "CTMZPLIGUS",
-    "IsLocked": false,
-    "LockReason": "",
-    "PolicyVersion": 1,
-    "UpdatedAt": "2026-07-23T15:35:52.9635717+08:00"
+    "version": 1,
+    "algorithm": "ECDSA-P256-SHA256",
+    "purpose": "CUSTOMCLIPPING-LICENSE",
+    "keyId": "3A95E9EA9232024C",
+    "payload": "ewogICJ1c2VyQ29kZSI6ICI1ODZFLTIwMzUtMDhGOS01OTQxLTdFQTgtODYyMi1CMjNGLTY1RUUiLAogICJkZXZpY2VOdW1iZXIiOiAiREVWLTg2RTAtRTE1Ni0yQkM1IiwKICAibWFjaGluZVNlcmlhbE51bWJlciI6ICIxZWNlYmQ0Ny0xNDM3LTRhZGYtODI5Ny0xMzRjM2I1MzFkNTgiLAogICJhdXRob3JpemF0aW9uVGltZSI6ICIyMDI5LTA5LTI4VDIzOjU5OjU5KzA4OjAwIiwKICAiaXNBdXRob3JpemVkIjogdHJ1ZSwKICAiaW5zdGFsbENvZGUiOiAiQ1RNWlBMSUdVUyIsCiAgImlzTG9ja2VkIjogZmFsc2UsCiAgImxvY2tSZWFzb24iOiAiIiwKICAicG9saWN5VmVyc2lvbiI6IDEsCiAgInVwZGF0ZWRBdCI6ICIyMDI2LTA5LTAyVDE3OjM0OjQwLjgyOTM4ODErMDg6MDAiCn0=",
+    "signature": "MEYCIQDsCNCYAGf03NBFSP3u2a8AYSGrOi2I1rx2h0VUgXPIsgIhAO5POCXl5C2Zd2fZFbiuM9BX74NED3Ktp7kYKKYB/1t6"
   },
   {
-    "UserCode": "4FDD-0A99-5567-3A1A-973B-7E54-B813-C5A1",
-    "DeviceNumber": "DEV-37EE-DCEC-312A",
-    "MachineSerialNumber": "f5a47e8f-fcce-4595-b153-240b97c4f1b6",
-    "AuthorizationTime": "2026-07-21T19:00:00+08:00",
-    "IsAuthorized": true,
-    "InstallCode": "CTMZPLIGUS",
-    "IsLocked": false,
-    "LockReason": null,
-    "PolicyVersion": 0,
-    "UpdatedAt": null
+    "version": 1,
+    "algorithm": "ECDSA-P256-SHA256",
+    "purpose": "CUSTOMCLIPPING-LICENSE",
+    "keyId": "3A95E9EA9232024C",
+    "payload": "ewogICJ1c2VyQ29kZSI6ICJGODA2LTMxRjctMUQwOS03MjUxLUU4REUtN0Q4Mi03NjQ1LTQzN0QiLAogICJkZXZpY2VOdW1iZXIiOiAiREVWLTk4ODktOTMwOC1GNkE2IiwKICAibWFjaGluZVNlcmlhbE51bWJlciI6ICJjNThjMjkwMS1iNjEwLTRhMTQtYjFmZS02NGMyMjg1ZWQ3Y2UiLAogICJhdXRob3JpemF0aW9uVGltZSI6ICIyMDI5LTA3LTIwVDE5OjAwOjAwKzA4OjAwIiwKICAiaXNBdXRob3JpemVkIjogdHJ1ZSwKICAiaW5zdGFsbENvZGUiOiAiQ1RNWlBMSUdVUyIsCiAgImlzTG9ja2VkIjogZmFsc2UsCiAgImxvY2tSZWFzb24iOiAiIiwKICAicG9saWN5VmVyc2lvbiI6IDEsCiAgInVwZGF0ZWRBdCI6ICIyMDI2LTA3LTIzVDE1OjM1OjUyLjk2MzU3MTcrMDg6MDAiCn0=",
+    "signature": "MEQCIHoeFky3e9ukQpyJv20RGvyhOjHb6xJudY71yOfdtQX\u002BAiBypHlCvEG2Rl63KtzVuNtVIVpOBUhnuqpmepZ6PTr9Ug=="
+  },
+  {
+    "version": 1,
+    "algorithm": "ECDSA-P256-SHA256",
+    "purpose": "CUSTOMCLIPPING-LICENSE",
+    "keyId": "3A95E9EA9232024C",
+    "payload": "ewogICJ1c2VyQ29kZSI6ICI0RkRELTBBOTktNTU2Ny0zQTFBLTk3M0ItN0U1NC1CODEzLUM1QTEiLAogICJkZXZpY2VOdW1iZXIiOiAiREVWLTM3RUUtRENFQy0zMTJBIiwKICAibWFjaGluZVNlcmlhbE51bWJlciI6ICJmNWE0N2U4Zi1mY2NlLTQ1OTUtYjE1My0yNDBiOTdjNGYxYjYiLAogICJhdXRob3JpemF0aW9uVGltZSI6ICIyMDI2LTA3LTIxVDE5OjAwOjAwKzA4OjAwIiwKICAiaXNBdXRob3JpemVkIjogdHJ1ZSwKICAiaW5zdGFsbENvZGUiOiAiQ1RNWlBMSUdVUyIsCiAgImlzTG9ja2VkIjogZmFsc2UsCiAgImxvY2tSZWFzb24iOiBudWxsLAogICJwb2xpY3lWZXJzaW9uIjogMCwKICAidXBkYXRlZEF0IjogbnVsbAp9",
+    "signature": "MEUCIDA9ccDxIYXB9XK/DQCsUWb0wzmg7CD8DR\u002B\u002BnZUofFtWAiEAxhy8lHZJ0l7Hs2AGndqVRbDuUYkwPH1K\u002Bv2Nf5s4Tds="
   }
 ]
