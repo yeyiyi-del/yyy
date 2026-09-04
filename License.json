@@ -3,13 +3,13 @@
     "UserCode": "D447-59E8-E825-98E2-1236-AD2B-B271-6F3B",
     "DeviceNumber": "DEV-45E4-F38A-D4E7",
     "MachineSerialNumber": "1f4311b7-8fbd-4cd4-ad91-4512c72b6dc4",
-    "AuthorizationTime": null,
-    "IsAuthorized": false,
+    "AuthorizationTime": "2027-03-04T23:59:59+08:00",
+    "IsAuthorized": true,
     "InstallCode": "CTMZPLIGUS",
     "IsLocked": false,
     "LockReason": "",
     "PolicyVersion": 1,
-    "UpdatedAt": "2026-09-04T10:17:13.4077518+08:00"
+    "UpdatedAt": "2026-09-04T10:24:47.2528383+08:00"
   },
   {
     "UserCode": null,
