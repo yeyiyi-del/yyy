@@ -1,6 +1,6 @@
 [
   {
-    "version": "1.0.1.52",
+    "version": "1.0.2.65",
     "url": "key=9bc64837eec79ef4a9b51d3736613861fea53f373461386141164b4356595c05540b1e0056515c4c5300555319000a55071404560c5300005d0100040c031a6182af83d2bcc5d0cedfd18e98d0da8e87ff8dd5a1844c094f541701190254161b0d492705815ac373a777c3b2b72a541da64ddefb5d24336164393337346138&code=d9374a8a",
     "desc": "1、未匹配模型不再写入 Excel、CSV 表格。2、新增独立结果类型 ModelNotMatched，界面显示“未匹配”。3、未匹配项使用黄色背景和黄色状态标签。4、新增“未匹配”数量统计，不计入 NG。",
     "installCode": "CTMZPLIGUS"
