@@ -1,5 +1,17 @@
 [
   {
+    "UserCode": "5844-ABB3-199F-606D-239F-46E6-3160-58D0",
+    "DeviceNumber": "DEV-9A8E-048E-6C56",
+    "MachineSerialNumber": "62200020-35d9-43be-ac0d-f68fc3f550c3",
+    "AuthorizationTime": null,
+    "IsAuthorized": false,
+    "InstallCode": "SHILANTECH",
+    "IsLocked": false,
+    "LockReason": "",
+    "PolicyVersion": 1,
+    "UpdatedAt": "2026-10-12T15:44:49.1388825+08:00"
+  },
+  {
     "UserCode": "9158-25CE-0006-86C0-47A0-A603-19EF-A47C",
     "DeviceNumber": "DEV-061E-FC60-56B3",
     "MachineSerialNumber": "3077ac44-88ea-45b8-9948-3989b2dbc72a",
