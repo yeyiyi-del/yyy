@@ -1,5 +1,18 @@
 [
   {
+    "UserCode": "000A-9784-3718-0760-3342-1B9A-4C94-1B2E",
+    "DeviceNumber": "DEV-0422-D57F-2F70",
+    "MachineSerialNumber": "M2-38DF6E5336D26120D84ACDA9A5CB8738A359B9B1CFBDD40233ADF5F1A8AF001E",
+    "AuthorizationTime": null,
+    "IsAuthorized": false,
+    "InstallCode": "CTMZPLIGUS",
+    "IsLocked": false,
+    "LockReason": "",
+    "PolicyVersion": 1,
+    "UpdatedAt": "2026-10-29T15:58:38.3688189+08:00",
+    "Signature": null
+  },
+  {
     "UserCode": "5844-ABB3-199F-606D-239F-46E6-3160-58D0",
     "DeviceNumber": "DEV-9A8E-048E-6C56",
     "MachineSerialNumber": "62200020-35d9-43be-ac0d-f68fc3f550c3",
@@ -9,7 +22,8 @@
     "IsLocked": false,
     "LockReason": "",
     "PolicyVersion": 1,
-    "UpdatedAt": "2026-10-12T15:44:49.1388825+08:00"
+    "UpdatedAt": "2026-10-12T15:44:49.1388825+08:00",
+    "Signature": null
   },
   {
     "UserCode": "9158-25CE-0006-86C0-47A0-A603-19EF-A47C",
@@ -21,7 +35,8 @@
     "IsLocked": false,
     "LockReason": "",
     "PolicyVersion": 1,
-    "UpdatedAt": "2026-10-12T16:52:15.5102979+08:00"
+    "UpdatedAt": "2026-10-12T16:52:15.5102979+08:00",
+    "Signature": null
   },
   {
     "UserCode": "6894-27DF-F9C2-DAE0-D0F6-AA46-E97B-51E7",
@@ -33,7 +48,8 @@
     "IsLocked": false,
     "LockReason": "",
     "PolicyVersion": 1,
-    "UpdatedAt": "2026-10-28T16:47:07.1454401+08:00"
+    "UpdatedAt": "2026-10-28T16:47:07.1454401+08:00",
+    "Signature": null
   },
   {
     "UserCode": "586E-2035-08F9-5941-7EA8-8622-B23F-65EE",
@@ -45,7 +61,8 @@
     "IsLocked": false,
     "LockReason": "",
     "PolicyVersion": 1,
-    "UpdatedAt": "2026-09-29T15:16:07.2363532+08:00"
+    "UpdatedAt": "2026-09-29T15:16:07.2363532+08:00",
+    "Signature": null
   },
   {
     "UserCode": "2B2B-04F7-57F3-872E-BE69-A4F9-06AA-1545",
@@ -57,7 +74,8 @@
     "IsLocked": false,
     "LockReason": "",
     "PolicyVersion": 1,
-    "UpdatedAt": "2026-10-09T09:26:38.2736938+08:00"
+    "UpdatedAt": "2026-10-09T09:26:38.2736938+08:00",
+    "Signature": null
   },
   {
     "UserCode": "D447-59E8-E825-98E2-1236-AD2B-B271-6F3B",
@@ -69,6 +87,7 @@
     "IsLocked": false,
     "LockReason": "",
     "PolicyVersion": 1,
-    "UpdatedAt": "2026-10-04T19:26:09.4721686+08:00"
+    "UpdatedAt": "2026-10-04T19:26:09.4721686+08:00",
+    "Signature": null
   }
 ]
