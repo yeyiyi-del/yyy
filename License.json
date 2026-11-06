@@ -1,5 +1,17 @@
 [
   {
+    "UserCode": "A7C0-1AA6-18EF-9EB1-92A0-AF0E-27D3-4125",
+    "DeviceNumber": "DEV-FEA2-322E-DB12",
+    "MachineSerialNumber": "69018681-317c-4cd1-b5c6-42bbfc96ea05",
+    "AuthorizationTime": null,
+    "IsAuthorized": false,
+    "InstallCode": "SHILANTECH",
+    "IsLocked": false,
+    "LockReason": "",
+    "PolicyVersion": 1,
+    "UpdatedAt": "2026-11-06T10:36:07.0415575+08:00"
+  },
+  {
     "UserCode": "165B-8092-7E45-4300-5A99-01C8-A760-58D7",
     "DeviceNumber": "DEV-0672-4A37-A005",
     "MachineSerialNumber": "M2-A389CC16FD1965A73E13D5CD199D03E302AE5BB35CAF0CADE25B7F3D41DD48C3",
@@ -9,8 +21,7 @@
     "IsLocked": false,
     "LockReason": "",
     "PolicyVersion": 1,
-    "UpdatedAt": "2026-11-05T15:43:14.6913884+08:00",
-    "Signature": null
+    "UpdatedAt": "2026-11-05T15:43:14.6913884+08:00"
   },
   {
     "UserCode": "DC96-C5E2-B3C5-158F-C971-79DE-17EF-1798",
@@ -22,8 +33,7 @@
     "IsLocked": false,
     "LockReason": "",
     "PolicyVersion": 1,
-    "UpdatedAt": "2026-11-03T16:52:19.4193564+08:00",
-    "Signature": null
+    "UpdatedAt": "2026-11-03T16:52:19.4193564+08:00"
   },
   {
     "UserCode": "4677-9A39-F611-7C4B-2F67-BD55-DB49-961B",
@@ -35,8 +45,7 @@
     "IsLocked": false,
     "LockReason": "",
     "PolicyVersion": 1,
-    "UpdatedAt": "2026-11-03T15:31:26.9770858+08:00",
-    "Signature": null
+    "UpdatedAt": "2026-11-03T15:31:26.9770858+08:00"
   },
   {
     "UserCode": "826C-AAA0-50F5-C84D-128C-D89B-25C8-6E2D",
@@ -48,8 +57,7 @@
     "IsLocked": false,
     "LockReason": "",
     "PolicyVersion": 1,
-    "UpdatedAt": "2026-11-03T15:23:07.691201+08:00",
-    "Signature": null
+    "UpdatedAt": "2026-11-03T15:23:07.691201+08:00"
   },
   {
     "UserCode": "8B62-A73F-16AA-4250-6A78-29A2-6C29-1B04",
@@ -61,8 +69,7 @@
     "IsLocked": false,
     "LockReason": "",
     "PolicyVersion": 1,
-    "UpdatedAt": "2026-11-02T17:36:07.9779128+08:00",
-    "Signature": null
+    "UpdatedAt": "2026-11-02T17:36:07.9779128+08:00"
   },
   {
     "UserCode": "588F-E329-C64C-351E-AF68-52CD-48CB-62AD",
@@ -74,8 +81,7 @@
     "IsLocked": false,
     "LockReason": "",
     "PolicyVersion": 1,
-    "UpdatedAt": "2026-11-02T17:22:54.271408+08:00",
-    "Signature": null
+    "UpdatedAt": "2026-11-02T17:22:54.271408+08:00"
   },
   {
     "UserCode": "D92A-42F8-D58B-8B50-A8AC-63CA-26C1-720D",
@@ -87,8 +93,7 @@
     "IsLocked": false,
     "LockReason": "",
     "PolicyVersion": 1,
-    "UpdatedAt": "2026-11-02T14:50:07.7777407+08:00",
-    "Signature": null
+    "UpdatedAt": "2026-11-02T14:50:07.7777407+08:00"
   },
   {
     "UserCode": "38A6-B80A-FAC1-B92B-BDE8-541E-7F1D-DFCD",
@@ -100,8 +105,7 @@
     "IsLocked": false,
     "LockReason": "",
     "PolicyVersion": 1,
-    "UpdatedAt": "2026-11-02T13:22:04.1060992+08:00",
-    "Signature": null
+    "UpdatedAt": "2026-11-02T13:22:04.1060992+08:00"
   },
   {
     "UserCode": "1409-EC72-250F-6EF5-2EDD-D38B-B4F9-0489",
@@ -113,8 +117,7 @@
     "IsLocked": false,
     "LockReason": "",
     "PolicyVersion": 1,
-    "UpdatedAt": "2026-10-30T14:43:42.9843904+08:00",
-    "Signature": null
+    "UpdatedAt": "2026-10-30T14:43:42.9843904+08:00"
   },
   {
     "UserCode": "8066-7542-27BD-883A-A23F-A4A8-EDF1-B4D1",
@@ -126,8 +129,7 @@
     "IsLocked": false,
     "LockReason": "",
     "PolicyVersion": 1,
-    "UpdatedAt": "2026-10-30T13:47:25.6665245+08:00",
-    "Signature": null
+    "UpdatedAt": "2026-10-30T13:47:25.6665245+08:00"
   },
   {
     "UserCode": "698D-485B-3EC7-D4AB-21EC-B6C7-A03B-D450",
@@ -139,8 +141,7 @@
     "IsLocked": false,
     "LockReason": "",
     "PolicyVersion": 1,
-    "UpdatedAt": "2026-10-30T11:04:50.6697534+08:00",
-    "Signature": null
+    "UpdatedAt": "2026-10-30T11:04:50.6697534+08:00"
   },
   {
     "UserCode": "54DF-A719-A2BE-9069-77B0-EFE4-AD91-6883",
@@ -152,8 +153,7 @@
     "IsLocked": false,
     "LockReason": "",
     "PolicyVersion": 1,
-    "UpdatedAt": "2026-10-30T10:46:10.0522229+08:00",
-    "Signature": null
+    "UpdatedAt": "2026-10-30T10:46:10.0522229+08:00"
   },
   {
     "UserCode": "5D4C-5D80-6F3D-E18E-4AA7-6C52-F61A-5215",
@@ -165,8 +165,7 @@
     "IsLocked": false,
     "LockReason": "",
     "PolicyVersion": 1,
-    "UpdatedAt": "2026-10-30T09:08:29.0884662+08:00",
-    "Signature": null
+    "UpdatedAt": "2026-10-30T09:08:29.0884662+08:00"
   },
   {
     "UserCode": "A775-508B-829D-DFBB-EF06-7E66-1BC4-3437",
@@ -178,8 +177,7 @@
     "IsLocked": false,
     "LockReason": "",
     "PolicyVersion": 1,
-    "UpdatedAt": "2026-10-29T19:15:41.8633769+08:00",
-    "Signature": null
+    "UpdatedAt": "2026-10-29T19:15:41.8633769+08:00"
   },
   {
     "UserCode": "7968-DB8C-B5B0-BF25-1FF2-4E89-6BD3-627B",
@@ -191,8 +189,7 @@
     "IsLocked": false,
     "LockReason": "",
     "PolicyVersion": 1,
-    "UpdatedAt": "2026-10-29T19:08:56.7638991+08:00",
-    "Signature": null
+    "UpdatedAt": "2026-10-29T19:08:56.7638991+08:00"
   },
   {
     "UserCode": "CFDB-8563-E5C0-316D-02E5-98D3-E1B4-1A0C",
@@ -204,8 +201,7 @@
     "IsLocked": false,
     "LockReason": "",
     "PolicyVersion": 1,
-    "UpdatedAt": "2026-10-29T18:53:15.0352452+08:00",
-    "Signature": null
+    "UpdatedAt": "2026-10-29T18:53:15.0352452+08:00"
   },
   {
     "UserCode": "690F-A029-F04D-C46D-C0C5-6829-EB9D-10B4",
@@ -217,8 +213,7 @@
     "IsLocked": false,
     "LockReason": "",
     "PolicyVersion": 1,
-    "UpdatedAt": "2026-10-29T18:24:33.5808165+08:00",
-    "Signature": null
+    "UpdatedAt": "2026-10-29T18:24:33.5808165+08:00"
   },
   {
     "UserCode": "BD2E-91C9-5544-9598-AE1B-4C96-A88A-B2BE",
@@ -230,8 +225,7 @@
     "IsLocked": false,
     "LockReason": "",
     "PolicyVersion": 2,
-    "UpdatedAt": "2026-10-29T16:53:53.9921198+08:00",
-    "Signature": "Ihn8otHCzTyBer3FaenOmm/38/lhFc/xKwn1FVGz4sxx4VD1f3HYKKBOx3TzckG6/tc6Hr8gU37aSoE2+I1YWHSxTUSxa08aBnSqkjbtIkNguvcRyaVwi5Srviz05WOzQ2/YWDqZtnjZgZ/9+V8sHOku8v1ok1qTg772XfjOPQUtnbfiR3wlTg6v2dzysg6KUZ0jOYnMMw0D2xwYvbRGuPppIJvfR3QoCExdNmeg6kCE7opiJGYbkhRWOLfHXIpY1H3oBv+GpWAOX4PCwdXdVMFQftiMq/Q7/L2MZgsmlADgm8C/0LS0tKoUqQnH+aWFgjiKNKHrf8EsOyb+WXTJMgVz/2rOgU+COtnA0oTG77tY6k7FiqcNrTqEOU63WY7bm9YsYZmGNU14djA/AXv0sZJHL85A8+FNNExjwKXL7JiwI8TZKtxB7zLYaVJGXpyWeDn4Un6lxgkodi1yhOmScYdR4NwJmFQryZBsUJxWy6d112ydWFMShVGEG/CjiM68"
+    "UpdatedAt": "2026-10-29T16:53:53.9921198+08:00"
   },
   {
     "UserCode": "000A-9784-3718-0760-3342-1B9A-4C94-1B2E",
@@ -243,8 +237,7 @@
     "IsLocked": false,
     "LockReason": "",
     "PolicyVersion": 2,
-    "UpdatedAt": "2026-10-29T15:59:26.1554602+08:00",
-    "Signature": "HbutNLBYLxZWlj+HUNOUcpnu80yPT9ceEyrOwwMN28fj2ie37VYHzVQ2NgqIsVY7fv0dGSu6LR+y2ahxidCLj6PrBIyvnWX6Ybuw3qyK37Vk5ZRbIxu6PYmJekoz1wbjFzR30bACukM84G4n5LN1pO8qaEmgVx3Ymz0bA+u/7CfFqzUFIcvq2NJbC5ZsYIOzEXFoVIDRtjckqDJ011q/iWmsRgaFqMEMUSCaUxYixpWihIxkjOtIyByglROGVF4JpGJcPi5sdxb1tNdCciEsksCU9B+p8IEZIJckTS4nP9kLMKIkevVdoDIUqI65lO6ufapanQFlwDYXaCiYRL2XaxyekE/VZWzWEmu0wp8y3ygfOcKu2gyqQUADF5dOJytCmzsi71pTwIjQ+HJR2bp3R2OCUidwSat0xLOYD7HkvFJ02aX1G2BlgcXcWSZfhAXFXlViDfbg9YjNqezcdmlKVD5Q4Vhz0Q1vEwww0Ul9mfsFvuAWbTegEidXkLu4hsyG"
+    "UpdatedAt": "2026-10-29T15:59:26.1554602+08:00"
   },
   {
     "UserCode": "5844-ABB3-199F-606D-239F-46E6-3160-58D0",
@@ -256,8 +249,7 @@
     "IsLocked": false,
     "LockReason": "",
     "PolicyVersion": 1,
-    "UpdatedAt": "2026-10-12T15:44:49.1388825+08:00",
-    "Signature": null
+    "UpdatedAt": "2026-10-12T15:44:49.1388825+08:00"
   },
   {
     "UserCode": "9158-25CE-0006-86C0-47A0-A603-19EF-A47C",
@@ -269,8 +261,7 @@
     "IsLocked": false,
     "LockReason": "",
     "PolicyVersion": 1,
-    "UpdatedAt": "2026-10-12T16:52:15.5102979+08:00",
-    "Signature": null
+    "UpdatedAt": "2026-10-12T16:52:15.5102979+08:00"
   },
   {
     "UserCode": "6894-27DF-F9C2-DAE0-D0F6-AA46-E97B-51E7",
@@ -282,8 +273,7 @@
     "IsLocked": false,
     "LockReason": "",
     "PolicyVersion": 1,
-    "UpdatedAt": "2026-10-28T16:47:07.1454401+08:00",
-    "Signature": null
+    "UpdatedAt": "2026-10-28T16:47:07.1454401+08:00"
   },
   {
     "UserCode": "586E-2035-08F9-5941-7EA8-8622-B23F-65EE",
@@ -295,8 +285,7 @@
     "IsLocked": false,
     "LockReason": "",
     "PolicyVersion": 1,
-    "UpdatedAt": "2026-09-29T15:16:07.2363532+08:00",
-    "Signature": null
+    "UpdatedAt": "2026-09-29T15:16:07.2363532+08:00"
   },
   {
     "UserCode": "2B2B-04F7-57F3-872E-BE69-A4F9-06AA-1545",
@@ -308,8 +297,7 @@
     "IsLocked": false,
     "LockReason": "",
     "PolicyVersion": 1,
-    "UpdatedAt": "2026-10-09T09:26:38.2736938+08:00",
-    "Signature": null
+    "UpdatedAt": "2026-10-09T09:26:38.2736938+08:00"
   },
   {
     "UserCode": "D447-59E8-E825-98E2-1236-AD2B-B271-6F3B",
@@ -321,7 +309,6 @@
     "IsLocked": false,
     "LockReason": "",
     "PolicyVersion": 1,
-    "UpdatedAt": "2026-10-04T19:26:09.4721686+08:00",
-    "Signature": null
+    "UpdatedAt": "2026-10-04T19:26:09.4721686+08:00"
   }
 ]
