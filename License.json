@@ -3,13 +3,13 @@
     "UserCode": "A7C0-1AA6-18EF-9EB1-92A0-AF0E-27D3-4125",
     "DeviceNumber": "DEV-FEA2-322E-DB12",
     "MachineSerialNumber": "69018681-317c-4cd1-b5c6-42bbfc96ea05",
-    "AuthorizationTime": null,
-    "IsAuthorized": false,
+    "AuthorizationTime": "2100-01-10T23:59:59+08:00",
+    "IsAuthorized": true,
     "InstallCode": "SHILANTECH",
     "IsLocked": false,
     "LockReason": "",
     "PolicyVersion": 1,
-    "UpdatedAt": "2026-11-06T10:36:07.0415575+08:00"
+    "UpdatedAt": "2026-11-06T10:47:43.767415+08:00"
   },
   {
     "UserCode": "165B-8092-7E45-4300-5A99-01C8-A760-58D7",
