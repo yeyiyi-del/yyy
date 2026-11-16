@@ -406,14 +406,14 @@
     "UserCode": "5D4C-5D80-6F3D-E18E-4AA7-6C52-F61A-5215",
     "DeviceNumber": "DEV-A3B9-51DD-E892",
     "MachineSerialNumber": "M2-4DB05DBC1B7AD9640130B989F9FDE2C8F2651509D259D03553754BCFD78AB73F",
-    "AuthorizationTime": null,
-    "IsAuthorized": false,
+    "AuthorizationTime": "2034-06-10T23:59:59+08:00",
+    "IsAuthorized": true,
     "InstallCode": "CTMZPLIGUS",
     "IsLocked": false,
     "LockReason": "",
     "PolicyVersion": 1,
-    "UpdatedAt": "2026-10-30T09:08:29.0884662+08:00",
-    "Signature": null
+    "UpdatedAt": "2026-11-16T14:45:26.7093946+08:00",
+    "Signature": "oVvgxO9Sh2Yb8F5mih2ABNMjbpzVY0C0cG3BwX98pRMyx+BTPxCs8W0O/GHob03SZlQOuvx3gnQBo4kamF4jeZTfa+gn/csT4h8JhVWxaOodT1TyxXpmc1m2vAyzCTS2qMKSfnzNG9KvuQ3ILzpPQBhd61GJkAZgKEBzexgdsJTDGsXI1TtGqf+wOA0nlbyb+LnKnKO8LRe9eRxdqniKbcw8xPu1pPHFD+zG362QXNBL5HSmBmUjLEOaxdqmudsAshQ4zWtzfubwI2YikGgqoYLZZc4Gn6TBZ1RPxRBCf6MJA7zrihFtlDWArOTQwvRzzzHzx7bjQ0z+l2oy3WvLRYqNPulFivZf1LuJQFnh3TAL8/cGp9V1C8CcBFEPnmeximZKK8i8fGnTFQIUSyDb0kiURQPvridomoevamFgNHz3wVrE5cpNIz9yPNccLDPoGKDNQeAeFvON9fpoJ1+nznz6v+abX2Z+Y62tXueFTm1qTi1I1uriAsxcECz/Ke27"
   },
   {
     "UserCode": "A775-508B-829D-DFBB-EF06-7E66-1BC4-3437",
