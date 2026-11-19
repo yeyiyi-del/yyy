@@ -1,5 +1,18 @@
 [
   {
+    "UserCode": "4D12-5D8C-39EB-9C57-7FD2-E473-3FA6-142C",
+    "DeviceNumber": "DEV-20B4-E836-292A",
+    "MachineSerialNumber": "M2-460A98BC42BFC91DA7F913FED5E05230D29FA508F31A7065CA921ED6E42B0B6C",
+    "AuthorizationTime": null,
+    "IsAuthorized": false,
+    "InstallCode": "CTMZPLIGUS",
+    "IsLocked": false,
+    "LockReason": "",
+    "PolicyVersion": 1,
+    "UpdatedAt": "2026-11-19T10:08:40.0004281+08:00",
+    "Signature": null
+  },
+  {
     "UserCode": "BE10-E154-1C55-0C66-FE18-1585-FDC2-60A1",
     "DeviceNumber": "DEV-5C85-807F-018A",
     "MachineSerialNumber": "M2-1752A5B5594FAB939554EA6BC70A6C57F0A98CCCB1A81C9B0AE14F9ECB40EF37",
