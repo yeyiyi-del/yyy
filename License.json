@@ -1,5 +1,18 @@
 [
   {
+    "UserCode": "FEEC-40B7-400E-FA09-F8E2-2CBC-CB7F-8335",
+    "DeviceNumber": "DEV-9520-FC91-DC1F",
+    "MachineSerialNumber": "M2-E7E97E7008CA500DFD62FBF00EBDA24E88F3BA6733CE297517CA8907C61DB8C9",
+    "AuthorizationTime": null,
+    "IsAuthorized": false,
+    "InstallCode": "CTMZPLIGUS",
+    "IsLocked": false,
+    "LockReason": "",
+    "PolicyVersion": 1,
+    "UpdatedAt": "2026-11-24T15:27:42.5989463+08:00",
+    "Signature": null
+  },
+  {
     "UserCode": "20D4-EF20-0CD1-2362-1CE2-6D8E-03F4-D8D8",
     "DeviceNumber": "DEV-A5B2-E408-9F02",
     "MachineSerialNumber": "M2-5F6151E86F65BE8CCBFD7D15CBCB628CC90D20246F2D5C1DC1DC6AB71E43A3CE",
