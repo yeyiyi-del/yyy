@@ -3,14 +3,14 @@
     "UserCode": "19F2-FD51-073D-4D9F-4DAD-2557-0F4F-1D0E",
     "DeviceNumber": "DEV-7F2F-2165-9356",
     "MachineSerialNumber": "M2-721AFE105F03E167AFD0935B7C2A2D140AB41AC830C15B13F06AA76250F2B5BC",
-    "AuthorizationTime": null,
-    "IsAuthorized": false,
+    "AuthorizationTime": "2027-03-25T23:59:59+08:00",
+    "IsAuthorized": true,
     "InstallCode": "CTMZPLIGUS",
     "IsLocked": false,
     "LockReason": "",
     "PolicyVersion": 1,
-    "UpdatedAt": "2026-11-25T13:55:56.2510672+08:00",
-    "Signature": null
+    "UpdatedAt": "2026-11-25T14:13:01.4169939+08:00",
+    "Signature": "awFJuL4gCDAmrPvBnQVhr0OQi1lqSp1Gz8+IAfG22Bvdo3ujyGFgF+VS/rAwVSxpHSy5mhiEvekB6mpj1yeTPUu2Q4XcyvzYOITnTzetuMUJ/mvN169XC3tgBVp8mhWd9xlGmGIws5MepMlR4iVeO+8ov9PIqWPUrFd9dWpjeEU8WCJI4zGetanJD+eGOz+UUqj1MITLA+YjG9ZgRap7edB/TQTkycYGipRtsXQG2KXDWO4v/j7p3Fb8rej0MMRLjFhOgmKDlSuM1w0mwMC1N55WlElZa3FqpBBjdSkx2sjo5d4TGEKscZXq5wcuYibDzC2wgOSRB9rJA0zJNu4sZiKrncFNWb2p/YuuiMS3uXtFWVLwjlAzi9dAqH4LFAZLG9qIn12plcvOcGmfVov1Kco1Lm1nvi3WDOaob/OxnagLhNrtl9kEunmKE/9tIpOJcSFozbdyycT0EVuhmOUpbJsxV2ShpknpLGwydUFGD2Q2+y/9rl/cl5y5HnWghccA"
   },
   {
     "UserCode": "FEEC-40B7-400E-FA09-F8E2-2CBC-CB7F-8335",
